@@ -1,6 +1,6 @@
 # Plasma Paper
 
-#Compiling/Editing
+# Compiling/Editing
 
 Paper is in LaTeX format. Diagrams are in dia, but may remake the diagrams in
 inkscape for cleanliness.
